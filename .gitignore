@@ -1,0 +1,5 @@
+# Ignore .qcow2
+*.qcow2
+
+# Ignore machines/
+machines/
